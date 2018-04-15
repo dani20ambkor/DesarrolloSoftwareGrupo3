@@ -9,5 +9,8 @@
  * @author PC
  */
 public class Prueba {
-  hola
+    public static void main(String[] args) {
+        System.out.println("hola");
+    }
+  
 }
