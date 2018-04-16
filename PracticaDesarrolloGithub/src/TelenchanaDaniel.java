@@ -9,5 +9,7 @@
  * @author PC
  */
 public class TelenchanaDaniel {
-    
+    public static void main(String[] args) {
+        System.out.println("hola");
+    }
 }
