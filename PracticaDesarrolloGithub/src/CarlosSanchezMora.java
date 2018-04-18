@@ -1,4 +1,6 @@
 package Interface;
 public class CarlosSanchezMora {
-    //Carlos Sanchez
+    public static void main(String[] args) {
+        System.out.println("Carlos Sanchez");
+    }
 }
