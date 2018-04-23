@@ -12,7 +12,6 @@ package MauricioPerez1;
 public class MP {
     public static void main(String[] args) {
             System.out.println("hola mundo!");
-            System.out.println("hola mundo!222");
     }
                    
     
