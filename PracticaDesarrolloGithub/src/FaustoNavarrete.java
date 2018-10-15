@@ -10,7 +10,6 @@
  */
 public class FaustoNavarrete {
     public static void main(String[] args) {
-        System.out.println("hooooo");
                 System.out.println("hooooo");
 
     }
